@@ -1,0 +1,1 @@
+puts array = 5.times.map { (65+rand(26)).chr}.join
